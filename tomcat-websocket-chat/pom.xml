@@ -38,7 +38,7 @@
 
         <!-- version dependencies -->
         <version.websocket.api>1.1</version.websocket.api>
-        <version.jboss.logging>3.5.0.Final</version.jboss.logging>
+        <version.jboss.logging>3.4.3.Final</version.jboss.logging>
 
         <!-- maven-compiler-plugin -->
         <maven.compiler.target>1.8</maven.compiler.target>
